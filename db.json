@@ -1,0 +1,46 @@
+{
+  "user": [
+    {
+      "name": "ADAM",
+      "age": 18,
+      "grade": "A",
+      "id": 1
+    },
+    {
+      "name": "John",
+      "age": 20,
+      "grade": "B",
+      "id": 2
+    },
+    {
+      "name": "Max",
+      "age": 20,
+      "grade": "B+",
+      "id": 3
+    },
+    {
+      "name": "Tyson ",
+      "age": 18,
+      "grade": "B+",
+      "id": 4
+    },
+    {
+      "name": "ramesh",
+      "age": 19,
+      "grade": "B+",
+      "id": 5
+    },
+    {
+      "name": "Saurav ",
+      "age": "15",
+      "grade": "A",
+      "id": 6
+    },
+    {
+      "name": "rai",
+      "age": "12",
+      "grade": "A",
+      "id": 7
+    }
+  ]
+}
